@@ -1,0 +1,19 @@
+#
+# Copyright YOU (c) 1900.
+#
+# (vmodtool requires this format.)
+#
+
+$Module includereq VMOD
+
+DESCRIPTION
+===========
+
+This is the embedded documentation for the includereq VMOD. It should
+mention what the vmod is intended to do.
+
+It can span multiple lines and is written in RST format.
+You can even have links and lists in here:
+
+* https://github.com/weverss/libvmod-includereq/
+* https://www.varnish-cache.org/
